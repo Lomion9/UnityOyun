@@ -8,9 +8,6 @@ UI: Atılan mermi sayısı ve öldürülen düşman sayısını gösteren bir ar
 Gereksinimler
 Unity Sürümü: Unity 2021.3.x veya üstü (projeyi açmak için).
 Platform: Windows (oyun şu anda Windows için derlendi).
-Kurulum
-Depoyu Klonlayın:
-git clone https://github.com/KullaniciAdi/MyUnityGame.git
 Nasıl Oynanır
 Hareket: A ve D tuşlarıyla sola/sağa hareket.
 Zıplama: W tuşu ile zıplama.
